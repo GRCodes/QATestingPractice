@@ -1,0 +1,7 @@
+14:59:00.071 [main] INFO  resources.foundation - Driver Windows is Closed
+14:59:02.326 [main] INFO  resources.foundation - Driver is Successfully Initialized
+14:59:03.131 [main] INFO  resources.foundation - UserName entered
+14:59:03.203 [main] INFO  resources.foundation - Password is entered
+14:59:03.259 [main] INFO  resources.foundation - Email Address is Entered
+14:59:03.375 [main] INFO  resources.foundation - Submit Button is Clicked
+14:59:03.378 [main] INFO  resources.foundation - Alert is Captured
